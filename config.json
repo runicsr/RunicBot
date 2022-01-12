@@ -1,0 +1,5 @@
+{
+    "token": "Insert Bot Token Here",
+    "prefix": "Insert Prefix here",
+    "mongooseConnectionString": ""
+}
